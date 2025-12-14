@@ -2,6 +2,17 @@
 
 A simple, secure ERC20 token implementation for the Base blockchain using Hardhat, OpenZeppelin contracts, and best practices.
 
+## 📱 dApp Included
+
+This repository includes a **mini dApp** (`/dapp` folder) for interacting with the BaseToken contract:
+- Connect wallet (MetaMask)
+- Read contract data (balance, supply, etc.)
+- Write transactions (transfer, mint, burn)
+- Simple, modern UI
+- Ready to deploy to Vercel
+
+See [dapp/README.md](./dapp/README.md) for dApp setup instructions.
+
 ## 📋 Table of Contents
 
 - [Features](#features)
